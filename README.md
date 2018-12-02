@@ -1,2 +1,2 @@
-# Lemon-Store
-Just another repository
+# Welcome Fellow Lemon
+# Buy thing from the Lemon Store
